@@ -1,0 +1,16 @@
+{
+  "name": "PixelLog",
+  "short_name": "PixelLog",
+  "description": "A pixel-art themed developer diary",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a0a2e",
+  "theme_color": "#1a0a2e",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
